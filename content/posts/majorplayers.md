@@ -1,7 +1,6 @@
 ---
 title: "Majorplayers"
 date: 2021-05-17T02:24:59-07:00
-draft: true
 ---
 
 OUTLINE of players in aging who are worth paying far more attention to than average:

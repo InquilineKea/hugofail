@@ -1,7 +1,6 @@
 ---
 title: "Microplastics"
 date: 2021-05-17T02:25:46-07:00
-draft: true
 ---
 
 Microplastics (these nasty entropy-increasing substances) have a way of making it into *anything* - they even have a way of making it into fruits/vegetables and human placenta. We can expect concentrations in the environment may only be expected to increase over time. That they increase over time means that we should get more concerned over time, and that previous studies hinting at lack of health risk may be invalidated as bodies may accumulate more microplastics than they have several decades ago (even though it appears that their net effect on health/inflammation is lower than that of air pollution, which has been gradually decreasing). These particles may be expected to only bioaccumulate, given that the cell is not great at getting rid of them. We know that even carbon nanotubes can impose oxidative stress on the cell due to disrupting its external structure - microplastics follow a distribution of size vs volume and the smaller microplastics might be similar to air pollution and nanoparticles in how smaller sizes are more easily absorbed by the cell (OR the cell nucleus) and more likely to disrupt the cell structure. The neurological effects of them (https://particleandfibretoxicology.biomedcentral.com/articles/10.1186/s12989-020-00358-y) may be the most worrisome effects of all. 

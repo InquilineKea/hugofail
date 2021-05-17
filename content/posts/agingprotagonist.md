@@ -1,7 +1,6 @@
 ---
 title: "Agingprotagonist"
 date: 2021-05-17T02:24:24-07:00
-draft: true
 ---
 
 the estimated value of someone's time is higher if they play a major role in prolonging everyone else's time (whether through prodding them to eat better or playing a role in anti-aging biotech)
